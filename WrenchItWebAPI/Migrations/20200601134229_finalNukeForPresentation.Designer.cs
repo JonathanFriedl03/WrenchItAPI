@@ -10,8 +10,8 @@ using WrenchItWebAPI.Data;
 namespace WrenchItWebAPI.Migrations
 {
     [DbContext(typeof(ApplicationContext))]
-    [Migration("20200601125723_CarIdAdded")]
-    partial class CarIdAdded
+    [Migration("20200601134229_finalNukeForPresentation")]
+    partial class finalNukeForPresentation
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
